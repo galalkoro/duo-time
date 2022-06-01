@@ -5,17 +5,17 @@
 - [ ] Duration: 2 days
 - [ ] Deployment strategy : 
     - [x] Github page
-- [ ] Team challenge : duo
+- [x] Team challenge : solo
 
 
 ## The Mission
-- [ ] It's time to fool around a little! You will be assigned a partner to be working with, starting with HTML and CSS. First you both will make a page about eachother with only HTML and CSS. In the must have features you'll find exactly what things you have to include.
+- [x] It's time to fool around a little! You will be assigned a partner to be working with, starting with HTML and CSS. First you both will make a page about eachother with only HTML and CSS. In the must have features you'll find exactly what things you have to include.
 
 Of course, you might not be sure what you should fill in for this person, this is where you take a guess. The fun part comes when you show them your finished HTML / CSS page. Now, it's time for them to correct and enhance your page using Javascript!
 
 ## Must-have features
 - [ ] One pager of your partner with the following details:
-    - [ ] it's responsive
+    - [x] it's responsive
     - [ ] it has a title
     - [ ] it has a favicon
     - [ ] their favourite colour
@@ -24,7 +24,7 @@ Of course, you might not be sure what you should fill in for this person, this i
     - [ ] their favourite fictional character
     - [ ] their favourite celebrity
     - [ ] their picture (if you want to joke, be sure your partner is okay with it)
-    - [ ] their name as a big header
+    - [x] their name as a big header
     - [ ] 3 words describing this person
     - [ ] a challenge box
         - [ ] make a seperate section where your partner can unleash their creativity
@@ -43,9 +43,9 @@ Of course, you might not be sure what you should fill in for this person, this i
 - [ ] As many fun facts you can think of!
 - [ ] SEO is good!
 - [ ] Semantically correct
-- [ ] CSS framework (bootstrap, tailwind, ...)
+- [x] CSS framework (bootstrap, tailwind, ...)
 - [ ] Link to your partners page
 - [ ] QR code linking to your / your partners page
-    - [ ] we can print these and hang them around the campus!
+    - [x] we can print these and hang them around the campus!
 
 ## GOOD LUCK!!!
